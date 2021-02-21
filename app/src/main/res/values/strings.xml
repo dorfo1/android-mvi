@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVI sample</string>
+    <string name="search">Buscar</string>
+
+    <string name="rocket_title">%s - %s Kgs</string>
+    <string name="detail_error_message">Erro ao carregar detalhes do foguete...saindo.</string>
+</resources>
